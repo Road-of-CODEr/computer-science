@@ -3,7 +3,6 @@
 ## BookStore
 
 - [책 모아보기](bookstore.md)
-  - [HTTP 완벽가이드](https://github.com/Road-of-CODEr/Tech-Book-Learning/blob/main/HTTPPerfectGuide/README.md)
 
 ## 개발자 인터뷰 준비
 
