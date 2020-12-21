@@ -15,3 +15,4 @@
 2. [관계 대수와 SQL](sql.md)
 3. [데이터베이스 설계와 ER모델](er_model.md)
 4. [물리적 데이터베이스 설계](physical_model.md)
+5. [CAP 이론](cap-theory.md)
